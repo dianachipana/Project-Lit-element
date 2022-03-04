@@ -48,7 +48,7 @@ export class UserProfile extends LitElement {
                     
                     ${
                       this.userInfo.company !== null
-                        ? html` <p class="mt"><img src="assets/svg/company.svg" />${this.userInfo.company}</p> `
+                        ? html`<p class="mt"><img src="assets/svg/company.svg" />${this.userInfo.company}</p> `
                         : html``
                     }
 

@@ -21,8 +21,10 @@ describe('User Profile', () => {
         expect(el.userInfo).to.eql({});
       });
 
-      it('Validar nothing ', async() => {
-       expect(el.userInfo.email).to.be.undefined;
+      it('Validar que cuano sea null retorne un html vacio ', async() => {
+        const result = await fixture(html``)
+   
+
       });
 
       it('Snapshot', () => {

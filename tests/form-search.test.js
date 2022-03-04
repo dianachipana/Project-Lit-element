@@ -1,6 +1,6 @@
 import { fixture, expect, html  } from '@open-wc/testing';
 import sinon from 'sinon/pkg/sinon-esm.js';
-import '../src/components/searcher-user/form-search.js';
+import '../src/components/example-searcher-user/form-search';
 
 describe('FormSearch validation', () => {
     let el;

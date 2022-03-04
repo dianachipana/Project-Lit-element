@@ -1,4 +1,4 @@
-import { fixture, expect, html  } from '@open-wc/testing';
+/* import { fixture, expect, html  } from '@open-wc/testing';
 import sinon from 'sinon/pkg/sinon-esm.js';
 
 import '../src/components/lit-modal';
@@ -29,3 +29,4 @@ describe('LitModal validation', () => {
       });
 
 });
+ */

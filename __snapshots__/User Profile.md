@@ -6,22 +6,7 @@
 <section>
   <div class="container-search-user">
     <div class="container-img">
-      <img
-        class="img-profile"
-        src="undefined"
-      >
-      <div class="user-status-circle-badge-container">
-        <div class="user-status-circle-badge">
-          <div class="conteiner-status">
-            <span class="emoji">
-              ☁️
-            </span>
-            <span class="status-user">
-              Set status
-            </span>
-          </div>
-        </div>
-      </div>
+      <img src="undefined">
     </div>
     <h2>
     </h2>
@@ -54,9 +39,9 @@
       <p>
         <img src="assets/svg/email.svg">
       </p>
-      <p>
+      <a href="undefined">
         <img src="assets/svg/blog.svg">
-      </p>
+      </a>
     </div>
   </div>
 </section>
